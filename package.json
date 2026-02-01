@@ -1,0 +1,23 @@
+{
+  "name": "chiv2-nitrado-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for monitoring and administering a Nitrado-hosted Chivalry 2 server",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "deploy": "node src/discord/deploy-commands.js",
+    "lint": "node src/tools/selfcheck.js"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "pino": "^9.3.2",
+    "pino-pretty": "^11.2.2",
+    "zod": "^3.23.8"
+  }
+}

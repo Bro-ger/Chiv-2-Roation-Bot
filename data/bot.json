@@ -1,0 +1,1569 @@
+{
+  "guild_config": {
+    "902673196996780043": {
+      "guild_id": "902673196996780043",
+      "status_channel_id": "1466616426377777363",
+      "updated_at": "2026-01-31T21:22:21.285Z",
+      "status_message_id": "1467268795759591548"
+    }
+  },
+  "rotation_queue": {},
+  "status_samples": {
+    "902673196996780043": [
+      {
+        "ts": "2026-01-31T21:33:55.126Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:34:03.511Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:34:03.903Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:34:24.943Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:34:54.975Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:35:24.956Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:35:54.943Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:36:06.694Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:38:35.648Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:38:49.653Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:38:49.907Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:39:05.544Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:39:35.469Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:40:05.458Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:40:35.491Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:41:05.493Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:41:35.517Z",
+        "player_count": null,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": null
+      },
+      {
+        "ts": "2026-01-31T21:41:43.245Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:41:57.882Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:41:58.220Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:42:13.195Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:42:43.154Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:46:23.669Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:46:30.532Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:46:30.852Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:46:53.598Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:48:14.155Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:48:20.525Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:48:20.821Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:48:44.137Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:49:14.068Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:50:43.153Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:51:12.993Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T21:51:43.046Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:00:22.218Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:00:52.042Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:00:56.112Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:00:56.341Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:06:35.585Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:06:54.479Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:06:54.835Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:07:05.542Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:07:20.554Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:07:20.858Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:07:35.417Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:08:05.716Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:08:35.461Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:08:41.353Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:08:56.834Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:08:57.189Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:11:02.331Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:11:27.397Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:11:27.644Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:11:32.089Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:12:02.184Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:12:32.094Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:14:51.886Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:15:21.766Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:15:51.801Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:16:21.888Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:16:45.150Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:16:45.536Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:16:51.755Z",
+        "player_count": 1,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:17:01.161Z",
+        "player_count": 1,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:17:01.523Z",
+        "player_count": 1,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:17:21.777Z",
+        "player_count": 1,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:17:51.796Z",
+        "player_count": 1,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:25:49.274Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:26:14.553Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:26:14.988Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:26:18.931Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:26:49.093Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:27:49.115Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:27:58.595Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:27:58.831Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:28:19.163Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:28:49.054Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:29:19.054Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:29:49.060Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:30:19.062Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:30:49.104Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:31:19.094Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:31:49.096Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:32:19.095Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:32:49.117Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:33:19.122Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:33:49.128Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:34:19.132Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:34:49.161Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:35:19.142Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:35:49.188Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:36:19.153Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:36:49.203Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:37:19.187Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:37:45.139Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:38:15.040Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:38:45.039Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:39:15.066Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:39:45.040Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:40:15.104Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:40:44.948Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:41:15.128Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:41:45.067Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:42:15.087Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:42:45.081Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:43:15.104Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:43:45.096Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:44:15.153Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:44:45.111Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:45:15.159Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:45:45.134Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:46:15.221Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:46:45.163Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:47:15.176Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:47:45.161Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:48:15.184Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:48:45.206Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:49:15.178Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:49:45.399Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:50:15.216Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:50:45.221Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:51:15.239Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:51:45.252Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:52:15.276Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:52:45.268Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:53:15.250Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:53:45.260Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:54:15.247Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:54:45.256Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:55:15.287Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:55:45.286Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:56:15.285Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:56:45.297Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:57:15.371Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:57:45.312Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:58:15.321Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:58:45.323Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:59:15.373Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T22:59:45.344Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:00:15.565Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:00:45.383Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:01:15.373Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:01:45.394Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:02:15.418Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:02:45.400Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:03:15.413Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:03:45.448Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:04:15.434Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:04:45.471Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:05:15.495Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:05:45.437Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:06:15.505Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:06:45.468Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:07:15.482Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:07:45.497Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:08:15.494Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:08:45.499Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:09:15.537Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:09:45.570Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:10:15.568Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:10:45.616Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:11:15.564Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:11:45.544Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:12:15.549Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:12:45.577Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:13:15.584Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:13:45.578Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:14:15.583Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:14:45.614Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:15:15.638Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:15:45.626Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:16:15.664Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:16:45.663Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:17:15.637Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:17:45.671Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:18:15.659Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:18:45.653Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:19:15.668Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:19:45.702Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:20:15.699Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:20:45.729Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:21:15.720Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:21:45.840Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:22:15.731Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:22:45.765Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:23:15.793Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:23:45.760Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:24:15.770Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:24:45.776Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:25:15.804Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-01-31T23:25:45.815Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:37:10.741Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:37:41.613Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:38:09.000Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:38:10.548Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:38:11.205Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:38:13.031Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:38:15.021Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:38:16.490Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:38:40.578Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:39:10.642Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:39:11.784Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:39:13.141Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:39:40.586Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:40:00.750Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:40:04.056Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:40:10.605Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:40:40.608Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:41:10.609Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:41:16.245Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:41:40.634Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:42:10.621Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:42:40.642Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:43:10.691Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:43:40.681Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:44:10.779Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:44:40.658Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:44:54.124Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:44:57.124Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:45:10.735Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:45:40.682Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      },
+      {
+        "ts": "2026-02-01T00:46:10.690Z",
+        "player_count": 0,
+        "max_players": 64,
+        "status_text": "started",
+        "map_name": "LTS_Wardenglade"
+      }
+    ]
+  }
+}
